@@ -1,6 +1,6 @@
 {
-    "name": "Thor's hammer",
-    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-    "image": "https://game.example/item-id-8u5h2m.png",
-    "strength": 20
+    "name": "Stick",
+    "description": "Stick to carry around.",
+    "image": "https://svgsilh.com/png-512/308013.png",
+    "value": 20
 }
